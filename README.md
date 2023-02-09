@@ -6,7 +6,7 @@
 - There is also canteen owner page which gives the contact details of the shop or canteen owner.
 - Rating page also created on which user can give star rating to the canteen or shop on his or her experiences.
 
-##Screenshots
+## Screenshots
 ![Home](https://user-images.githubusercontent.com/85975646/217878011-4b445cba-311e-4912-ad96-06ba5072ca4c.png)
 ![Menu](https://user-images.githubusercontent.com/85975646/217878089-35e6459f-1366-4d51-ae47-0606243b37c7.png)
 ![Contact](https://user-images.githubusercontent.com/85975646/217878128-d9da120e-dafb-4db7-83b2-fb2637f595a5.png)
